@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;  
+}
+
+div.Container {
+    width: 50%;
+    min-height: 400px;
+    display: block;
+    margin: auto auto;
+    background-color: burlywood;
+    border: solid gray thin;
+    box-shadow: 3px 3px 3px gray;
+}
